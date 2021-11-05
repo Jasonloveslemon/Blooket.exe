@@ -6,4 +6,4 @@ if(question_to_do === 'spamOpenBoxes') {
 if(question_to_do === 'f') {
     alert("NOOOOOO")
 }
-    alert("END")
+await console.log("HI")
