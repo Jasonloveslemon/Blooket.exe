@@ -1,2 +1,2 @@
 # Blooket.exe
-This will serve as a fetcher for blooket misc.
+# DISCLAIMER THIS IS NOT MINE ALL CREDIT GOES TO @Glixzzy (https://github.com/glixzzy/blooket-hack)
